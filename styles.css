@@ -1,0 +1,21 @@
+/* styles.css */
+
+html {
+    background-color: gray;
+    color: black;
+    font-size: 32px;
+    font-family: 'Times New Roman', sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: gray;
+    color: black;
+    font-size: 82px;
+    font-family: 'Times New Roman', sans-serif;
+    text-align: center;
+}
+
+ol {
+    text-align: left;
+}
